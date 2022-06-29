@@ -1,0 +1,28 @@
+[
+    {
+        "franchiseCode": "MI_APP",
+        "company": "Centre Of Innovation",
+        "client_name": "Paul Maliekkal",
+        "designation": "Academician",
+        "address": "MNRA 158 , KOCHI 33, INDIA",
+        "website": "www.centreofinovation.com",
+        "email": "info@centreofinnovation.com",
+        "phone": "+971 7012717483",
+        "users_registered": 7,
+        "codes_generated": 9,
+        "user_completed": 6
+    },
+    {
+        "franchiseCode": "FRMIA_2",
+        "company": "Deseo Connect Private Ltd",
+        "client_name": "Sajid M",
+        "designation": "Executive Director",
+        "address": "Deseo Connect Private Ltd Third Floor MTI Complex",
+        "website": "www.deseoconnect.com",
+        "email": "info@deseoconnect.com",
+        "phone": "+91 9744883288",
+        "users_registered": 0,
+        "codes_generated": 5,
+        "user_completed": 0
+    }
+]
